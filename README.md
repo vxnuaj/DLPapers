@@ -23,9 +23,3 @@ Within each folder you will see:
 1. [AlexNet](AlexNet)
    1. [Notes](AlexNet/notes.md)
    2. [Implementation](alexnet.py)
-
-### TO-DO
-
-- [ ] AlexNet
-  - [ ] Notes
-  - [ ] Implementation
