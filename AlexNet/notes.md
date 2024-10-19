@@ -1,7 +1,3 @@
-<div align = 'center'>
-<img src = 'https://miro.medium.com/v2/resize:fit:2000/1*UItPkoIvPZR5iXgzVgap6g.png'>
-</div>
-
 ## AlexNet Paper Notes
 
 <details><summary>Definitions</summary>
