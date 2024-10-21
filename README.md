@@ -21,5 +21,4 @@ Within each folder you will see:
 ### Index
 
 1. [AlexNet](AlexNet)
-   1. [Notes](AlexNet/notes.md)
-   2. [Implementation](alexnet.py)
+2. [VGGNet](VGG)
