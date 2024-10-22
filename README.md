@@ -22,3 +22,4 @@ Within each folder you will see:
 
 1. [AlexNet](AlexNet)
 2. [VGGNet](VGG)
+3. [Network in Network](NiN)
