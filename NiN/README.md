@@ -16,7 +16,7 @@ Notes and implementation of the NiN blocks, proposed on *"Network in Network"* b
    ```
 3. Run `run.py` variants
 
-    `run_vgg11.py`
+    `run.py`
 
     ```python
 
