@@ -1,5 +1,5 @@
 <div align = 'center'>
-<img src = 'https://miro.medium.com/v2/resize:fit:2000/1*UItPkoIvPZR5iXgzVgap6g.png'>
+<img src = 'https://user-images.githubusercontent.com/26739999/142574479-21fb00a2-e63e-4bc6-a9f2-989cd6e15528.png'>
 </div>
 
 # ResNeXt
