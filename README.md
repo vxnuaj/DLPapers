@@ -24,3 +24,6 @@ Within each folder you will see:
 2. [VGGNet](VGG)
 3. [Network in Network](NiN)
 4. [Inception Series](InceptionVX)
+5. [ResNets](ResNetVX)
+6. [ResNext](ResNext)
+7. [DenseNet](DenseNet)
