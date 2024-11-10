@@ -1,4 +1,5 @@
-<div align = 'center'><img src = 'https://www.researchgate.net/publication/368539704/figure/fig3/AS:11431281143702109@1681264260877/Block-diagram-of-the-MobileNetV2-architecture.png'/>
+<div align = 'center'>
+<img src = 'https://www.researchgate.net/publication/368539704/figure/fig3/AS:11431281143702109@1681264260877/Block-diagram-of-the-MobileNetV2-architecture.png'/>
 </div>
 
 # MobileNetVX
