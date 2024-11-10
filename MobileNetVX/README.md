@@ -1,8 +1,9 @@
-<img src = 'https://www.researchgate.net/publication/354985604/figure/fig2/AS:1075503809191936@1633431498257/CNN-MobileNet-v1-architecture.png'/>
+<div align = 'center'><img src = 'https://www.researchgate.net/publication/368539704/figure/fig3/AS:11431281143702109@1681264260877/Block-diagram-of-the-MobileNetV2-architecture.png'/>
+</div>
 
 # MobileNetVX
 
-Notes and Implementations of MobileNetV1 & MobileNetV2
+Notes and PyTorch Implementations of MobileNetV1 & MobileNetV2.
 
 ## Index
 
