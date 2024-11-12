@@ -6,6 +6,8 @@
 
 Notes and PyTorch Implementations of MobileNetV1 & MobileNetV2.
 
+Accompanying [Blog Post](http://vxnuaj.com/blog/invresidual)
+
 ## Index
 
 1. [MobileNetV1](MobileNetV1)
