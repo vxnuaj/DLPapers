@@ -12,8 +12,8 @@ Notes and PyTorch Implementations of MobileNetV1 & MobileNetV2.
    1. [Implementation](MobileNetV1/mobilenetv1.py)
    2. [Notes](MobileNetV1/v1notes.md)
 2. [MobileNetV2](MobileNetV2)
-   1. [Implementation]
-   2. [Notes]
+   1. [Implementation](MobileNetV2/mobilenetv2.py)
+   2. [Notes](MobileNetV2/v2notes.md)
 
 ## MobileNetV1
 
