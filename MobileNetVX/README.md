@@ -53,7 +53,7 @@ Implementation of MobileNetV2, proposed on *"MobileNetV2: Inverted Residuals and
 2. Run `runv2.py`
 
    ```python
-  import torch
+   import torch
    from torchinfo import summary
    from mobilenetv2 import MobileNetV2
 
