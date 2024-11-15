@@ -1,6 +1,5 @@
 <div align = 'center'>
-<img src = 'assets/galax.png'>
-
+<img src = '_assets/galax.png'>
 
 # DLPapers
 
@@ -27,3 +26,6 @@ Within each folder you will see:
 5. [ResNets](ResNetVX)
 6. [ResNext](ResNext)
 7. [DenseNet](DenseNet)
+8. [MobileNetVX](MobileNetVX)
+9. [SqueezeNet](SqueezeNet)
+10. [SENet](SENet)
